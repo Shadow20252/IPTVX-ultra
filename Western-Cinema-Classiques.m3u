@@ -1,1 +1,40 @@
 
+#EXTM3U
+
+# ======== CINÉMA VF ========
+
+#EXTINF:-1 group-title="Cinéma VF" tvg-logo="",Ciné Frisson (VF)
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_cinefrisson.m3u8
+
+#EXTINF:-1 group-title="Cinéma VF" tvg-logo="",Ciné Polar (VF)
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_cinepolar.m3u8
+
+#EXTINF:-1 group-title="Cinéma VF" tvg-logo="",Ciné Comédie (VF)
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_cinecomedie.m3u8
+
+#EXTINF:-1 group-title="Cinéma VF" tvg-logo="",Ciné Action (VF)
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_cineaction.m3u8
+
+#EXTINF:-1 group-title="Cinéma VF" tvg-logo="",Ciné FX (VF)
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_cinefx.m3u8
+
+
+# ======== CHAÎNES FILMS FRANCOPHONES ========
+
+#EXTINF:-1 group-title="Cinéma VF" tvg-logo="",TV5MONDE (Films & séries VF)
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_tv5monde.m3u8
+
+#EXTINF:-1 group-title="Cinéma VF" tvg-logo="",Noovo (Québec – Films VF)
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca_noovo.m3u8
+
+#EXTINF:-1 group-title="Cinéma VF" tvg-logo="",Télé-Québec (Films VF)
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca_telequebec.m3u8
+
+
+# ======== CHAÎNES CLASSIQUES VF ========
+
+#EXTINF:-1 group-title="Cinéma Classique VF" tvg-logo="",Classique Films VF
+https://dai.google.com/linear/hls/event/rtv-retro/index.m3u8
+
+#EXTINF:-1 group-title="Cinéma Classique VF" tvg-logo="",Old Movies VF
+https://dai.google.com/linear/hls/event/rtv-oldmovies/index.m3u8
