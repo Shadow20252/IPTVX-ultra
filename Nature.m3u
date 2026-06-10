@@ -1,3 +1,60 @@
+#EXTM3U
+
+############################
+# 🌊 OCÉANS & PLAGES
+############################
+#EXTINF:-1 group-title="Océans" tvg-logo="https://i.imgur.com/2x0pQ0G.png",Coral City Camera
+https://coralcitycamerahls.com/live.m3u8
+
+#EXTINF:-1 group-title="Océans" tvg-logo="https://i.imgur.com/2x0pQ0G.png",ReefCam
+https://live.reefcam.net/live/reef.m3u8
+
+#EXTINF:-1 group-title="Océans" tvg-logo="https://i.imgur.com/2x0pQ0G.png",Monterey Bay Aquarium - Récifs
+https://montereybaylive.io/playlist.m3u8
+
+
+############################
+# 🏔️ MONTAGNES & PANORAMAS
+############################
+#EXTINF:-1 group-title="Montagnes" tvg-logo="https://i.imgur.com/8zYxg8p.png",Visit Norway - Fjords
+https://cdn.visitnorway.com/fjordlive.m3u8
+
+#EXTINF:-1 group-title="Montagnes" tvg-logo="https://i.imgur.com/8zYxg8p.png",Visit Switzerland - Alpes
+https://swisspanorama.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Montagnes" tvg-logo="https://i.imgur.com/8zYxg8p.png",Slow TV Norway - Train
+https://nrk1-slowtv-live.m3u8
+
+
+############################
+# 🌲 FORÊTS & RIVIÈRES
+############################
+#EXTINF:-1 group-title="Forêts" tvg-logo="https://i.imgur.com/7k8cQ1L.png",Forest TV
+https://forestv.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Forêts" tvg-logo="https://i.imgur.com/7k8cQ1L.png",River TV
+https://rivertv.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Forêts" tvg-logo="https://i.imgur.com/7k8cQ1L.png",Québec Nature - Rivière
+https://quebecnature.live/river.m3u8
+
+
+############################
+# 🦅 ANIMAUX & FAUNE
+############################
+#EXTINF:-1 group-title="Animaux" tvg-logo="https://i.imgur.com/5n3xk0T.png",WildEarth Safari
+https://wildearth-uk-live.m3u8
+
+#EXTINF:-1 group-title="Animaux" tvg-logo="https://i.imgur.com/5n3xk0T.png",Big Bear Eagle Cam
+https://bigbearlive.io/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Animaux" tvg-logo="https://i.imgur.com/5n3xk0T.png",Katmai Bears - Alaska
+https://explore.org/livecams/brown-bears/katmai-bear-cam.m3u8
+
+
+############################
+# 🎧 AMBIANCE & RELAXATION
+############################
 #EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/4q0xk0T.png",Rainy Mood (ALT 1)
 https://stream-us1.rainymood.net/live/playlist.m3u8
 
@@ -6,3 +63,5 @@ https://rain4k.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/4q0xk0T.png",Relaxing Rain Channel
 https://relaxrain.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com
