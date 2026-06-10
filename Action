@@ -1,0 +1,30 @@
+#EXTM3U
+
+# ======== ACTION VF ========
+
+#EXTINF:-1 group-title="Action VF" tvg-logo="",Ciné Action (VF)
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_cineaction.m3u8
+
+#EXTINF:-1 group-title="Action VF" tvg-logo="",Action Movies FR
+https://dai.google.com/linear/hls/event/rtv-action/index.m3u8
+
+#EXTINF:-1 group-title="Action VF" tvg-logo="",Aventure & Action FR
+https://linear-14.frequency.stream/dist/plex/14/hls/master/playlist.m3u8
+
+
+# ======== THRILLER / POLAR VF ========
+
+#EXTINF:-1 group-title="Action VF" tvg-logo="",Ciné Polar (VF)
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_cinepolar.m3u8
+
+#EXTINF:-1 group-title="Action VF" tvg-logo="",Thriller FR
+https://linear-15.frequency.stream/dist/plex/15/hls/master/playlist.m3u8
+
+
+# ======== AVENTURE / BLOCKBUSTERS ========
+
+#EXTINF:-1 group-title="Action VF" tvg-logo="",Blockbusters FR
+https://linear-16.frequency.stream/dist/plex/16/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Action VF" tvg-logo="",Adventure Movies FR
+https://dai.google.com/linear/hls/event/rtv-adventure/index.m3u8
