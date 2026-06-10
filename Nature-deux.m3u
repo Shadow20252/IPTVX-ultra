@@ -1,175 +1,175 @@
 #EXTM3U
 
 ############################
-# 🌊 OCÉANS (10)
+# OCEANS (10)
 ############################
-#EXTINF:-1 group-title="Océans",Explore – Underwater Reef
+#EXTINF:-1 group-title="Oceans",Underwater Reef
 https://explore.org/livecams/oceans/underwater-camera/live.m3u8
-#EXTINF:-1 group-title="Océans",Explore – Shark Lagoon
+#EXTINF:-1 group-title="Oceans",Shark Lagoon
 https://explore.org/livecams/sharks/shark-lagoon-cam/live.m3u8
-#EXTINF:-1 group-title="Océans",Explore – Pacific Coral Reef
+#EXTINF:-1 group-title="Oceans",Pacific Coral Reef
 https://explore.org/livecams/oceans/coral-reef-cam/live.m3u8
-#EXTINF:-1 group-title="Océans",Monterey Bay – Open Sea
-https://live-hls-web-aje.getstreamhosting.com/hls/mbayaquarium/playlist.m3u8
-#EXTINF:-1 group-title="Océans",Monterey Bay – Jellyfish
-https://live-hls-web-aje.getstreamhosting.com/hls/mbayaquariumjelly/playlist.m3u8
-#EXTINF:-1 group-title="Océans",Explore – Kelp Forest
+#EXTINF:-1 group-title="Oceans",Kelp Forest
 https://explore.org/livecams/monterey-bay-aquarium/kelp-forest-cam/live.m3u8
-#EXTINF:-1 group-title="Océans",Explore – Sea Lion Beach
+#EXTINF:-1 group-title="Oceans",Sea Lion Beach
 https://explore.org/livecams/sea-lions/sea-lion-cam/live.m3u8
-#EXTINF:-1 group-title="Océans",Explore – Walrus Cam
+#EXTINF:-1 group-title="Oceans",Walrus Cam
 https://explore.org/livecams/walrus/walrus-cam/live.m3u8
-#EXTINF:-1 group-title="Océans",Explore – Puffin Cam
+#EXTINF:-1 group-title="Oceans",Puffin Cam
 https://explore.org/livecams/birds/puffin-burrow-cam/live.m3u8
-#EXTINF:-1 group-title="Océans",Explore – Orca Sound
+#EXTINF:-1 group-title="Oceans",Orca Sound
 https://explore.org/livecams/orcas/orcalab-base-cam/live.m3u8
+#EXTINF:-1 group-title="Oceans",Beluga Point
+https://explore.org/livecams/beluga-whales/beluga-point/live.m3u8
+#EXTINF:-1 group-title="Oceans",Tropical Reef
+https://explore.org/livecams/oceans/tropical-reef-cam/live.m3u8
 
 
 ############################
-# 🦅 ANIMAUX (10)
+# ANIMALS (10)
 ############################
-#EXTINF:-1 group-title="Animaux",Katmai Bears – Alaska
+#EXTINF:-1 group-title="Animals",Katmai Bears
 https://explore.org/livecams/brown-bears/katmai-bear-cam.m3u8
-#EXTINF:-1 group-title="Animaux",Brooks Falls – Bears
+#EXTINF:-1 group-title="Animals",Brooks Falls Bears
 https://explore.org/livecams/brown-bears/brooks-falls-brown-bears/live.m3u8
-#EXTINF:-1 group-title="Animaux",Big Bear Bald Eagle
+#EXTINF:-1 group-title="Animals",Big Bear Eagle
 https://explore.org/livecams/bald-eagles/big-bear-eagle-nest/live.m3u8
-#EXTINF:-1 group-title="Animaux",Osprey Nest
+#EXTINF:-1 group-title="Animals",Osprey Nest
 https://explore.org/livecams/ospreys/osprey-nest/live.m3u8
-#EXTINF:-1 group-title="Animaux",Penguin Beach
+#EXTINF:-1 group-title="Animals",Penguin Beach
 https://explore.org/livecams/penguins/penguin-cam/live.m3u8
-#EXTINF:-1 group-title="Animaux",Elephant Park
+#EXTINF:-1 group-title="Animals",Elephant Park
 https://explore.org/livecams/elephants/elephant-cam/live.m3u8
-#EXTINF:-1 group-title="Animaux",Gorilla Forest
+#EXTINF:-1 group-title="Animals",Gorilla Forest
 https://explore.org/livecams/gorillas/gorilla-forest-cam/live.m3u8
-#EXTINF:-1 group-title="Animaux",Panda Cam
+#EXTINF:-1 group-title="Animals",Panda Cam
 https://explore.org/livecams/pandas/panda-cam/live.m3u8
-#EXTINF:-1 group-title="Animaux",Tiger Forest
+#EXTINF:-1 group-title="Animals",Tiger Forest
 https://explore.org/livecams/tigers/tiger-forest-cam/live.m3u8
-#EXTINF:-1 group-title="Animaux",Wolf Den
+#EXTINF:-1 group-title="Animals",Wolf Den
 https://explore.org/livecams/wolves/wolf-den-cam/live.m3u8
 
 
 ############################
-# 🏔️ MONTAGNES (10)
+# MOUNTAINS (10)
 ############################
-#EXTINF:-1 group-title="Montagnes",NRK Slow TV – Train
+#EXTINF:-1 group-title="Mountains",NRK Slow TV Train
 https://nrk1tslive.akamaized.net/hls/live/2017830/slowtv/master.m3u8
-#EXTINF:-1 group-title="Montagnes",Norway – Lofoten
+#EXTINF:-1 group-title="Mountains",Lofoten Live
 https://cdn1.webcams.travel/stream/lofoten.m3u8
-#EXTINF:-1 group-title="Montagnes",Norway – Geiranger Fjord
+#EXTINF:-1 group-title="Mountains",Geiranger Fjord
 https://cdn1.webcams.travel/stream/geiranger.m3u8
-#EXTINF:-1 group-title="Montagnes",Switzerland – Zermatt
+#EXTINF:-1 group-title="Mountains",Zermatt
 https://swisswebcams.ch/zermatt.m3u8
-#EXTINF:-1 group-title="Montagnes",Switzerland – Jungfrau
+#EXTINF:-1 group-title="Mountains",Jungfrau
 https://swisswebcams.ch/jungfrau.m3u8
-#EXTINF:-1 group-title="Montagnes",Austria – Innsbruck
+#EXTINF:-1 group-title="Mountains",Innsbruck
 https://stream.feratel.com/innsbruck.m3u8
-#EXTINF:-1 group-title="Montagnes",Austria – Kitzbühel
+#EXTINF:-1 group-title="Mountains",Kitzbuhel
 https://stream.feratel.com/kitzbuhel.m3u8
-#EXTINF:-1 group-title="Montagnes",France – Chamonix
+#EXTINF:-1 group-title="Mountains",Chamonix
 https://live.chamonix.com/hls/live.m3u8
-#EXTINF:-1 group-title="Montagnes",Italy – Dolomites
+#EXTINF:-1 group-title="Mountains",Dolomites
 https://dolomitiwebcams.it/live.m3u8
-#EXTINF:-1 group-title="Montagnes",Iceland – Vik
+#EXTINF:-1 group-title="Mountains",Vik Iceland
 https://icelandwebcams.is/vik.m3u8
 
 
 ############################
-# 🌲 FORÊTS (10)
+# FORESTS (10)
 ############################
-#EXTINF:-1 group-title="Forêts",Forest Waterfall
+#EXTINF:-1 group-title="Forests",Forest Waterfall
 https://explore.org/livecams/forests/forest-waterfall/live.m3u8
-#EXTINF:-1 group-title="Forêts",River Watch
+#EXTINF:-1 group-title="Forests",River Watch
 https://explore.org/livecams/rivers/river-watch/live.m3u8
-#EXTINF:-1 group-title="Forêts",Japan – Forest Shrine
+#EXTINF:-1 group-title="Forests",Japan Forest Shrine
 https://japanlivecams.jp/forest-shrine.m3u8
-#EXTINF:-1 group-title="Forêts",Canada – Forest Trail
-https://canadacam.ca/forest-trail.m3u8
-#EXTINF:-1 group-title="Forêts",Finland – Forest Lake
+#EXTINF:-1 group-title="Forests",Finland Forest Lake
 https://finlandcams.fi/forest-lake.m3u8
-#EXTINF:-1 group-title="Forêts",Sweden – Forest Cabin
+#EXTINF:-1 group-title="Forests",Sweden Forest Cabin
 https://swedencams.se/forest-cabin.m3u8
-#EXTINF:-1 group-title="Forêts",USA – Redwood Forest
+#EXTINF:-1 group-title="Forests",Redwood Forest
 https://usacams.org/redwood.m3u8
-#EXTINF:-1 group-title="Forêts",Germany – Black Forest
+#EXTINF:-1 group-title="Forests",Black Forest
 https://germanycams.de/blackforest.m3u8
-#EXTINF:-1 group-title="Forêts",Norway – Forest Valley
+#EXTINF:-1 group-title="Forests",Norway Forest Valley
 https://norwaycams.no/forest-valley.m3u8
-#EXTINF:-1 group-title="Forêts",Québec – Rivière
+#EXTINF:-1 group-title="Forests",Canada Forest Trail
+https://canadacam.ca/forest-trail.m3u8
+#EXTINF:-1 group-title="Forests",Quebec River
 https://quebecnature.live/river.m3u8
 
 
 ############################
-# 🌧️ PLUIE (10)
+# RAIN (10)
 ############################
-#EXTINF:-1 group-title="Pluie",Rainforest Ambience
+#EXTINF:-1 group-title="Rain",Rainforest Ambience
 https://rainforestcam.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Pluie",Forest Rain Window
+#EXTINF:-1 group-title="Rain",Forest Rain Window
 https://rainwindow.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Pluie",Soft Rain 24/7
+#EXTINF:-1 group-title="Rain",Soft Rain
 https://softrain.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Pluie",Rain on Leaves
+#EXTINF:-1 group-title="Rain",Rain on Leaves
 https://rainonleaves.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Pluie",Rain on Tent
+#EXTINF:-1 group-title="Rain",Rain on Tent
 https://raintent.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Pluie",Rain on Cabin
+#EXTINF:-1 group-title="Rain",Rain on Cabin
 https://raincabin.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Pluie",Rain on Forest Path
+#EXTINF:-1 group-title="Rain",Rain on Forest Path
 https://rainforestpath.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Pluie",Rain on Lake
+#EXTINF:-1 group-title="Rain",Rain on Lake
 https://rainlake.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Pluie",Rain on City Window
+#EXTINF:-1 group-title="Rain",Rain City Window
 https://raincitywindow.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Pluie",Rain & Thunder
+#EXTINF:-1 group-title="Rain",Rain & Thunder
 https://rainthunder.live/hls/stream.m3u8
 
 
 ############################
-# ❄️ NEIGE (10)
+# SNOW (10)
 ############################
-#EXTINF:-1 group-title="Neige",Norway – Snow Valley
+#EXTINF:-1 group-title="Snow",Snow Valley
 https://norwaycams.no/snow-valley.m3u8
-#EXTINF:-1 group-title="Neige",Finland – Snow Forest
+#EXTINF:-1 group-title="Snow",Snow Forest
 https://finlandcams.fi/snowforest.m3u8
-#EXTINF:-1 group-title="Neige",Iceland – Snow Coast
+#EXTINF:-1 group-title="Snow",Snow Coast
 https://icelandwebcams.is/snowcoast.m3u8
-#EXTINF:-1 group-title="Neige",Canada – Snow Trail
+#EXTINF:-1 group-title="Snow",Snow Trail
 https://canadacam.ca/snowtrail.m3u8
-#EXTINF:-1 group-title="Neige",Switzerland – Snow Peak
+#EXTINF:-1 group-title="Snow",Snow Peak
 https://swisswebcams.ch/snowpeak.m3u8
-#EXTINF:-1 group-title="Neige",Austria – Snow Village
+#EXTINF:-1 group-title="Snow",Snow Village
 https://stream.feratel.com/snowvillage.m3u8
-#EXTINF:-1 group-title="Neige",Japan – Snow Temple
+#EXTINF:-1 group-title="Snow",Snow Temple
 https://japanlivecams.jp/snowtemple.m3u8
-#EXTINF:-1 group-title="Neige",USA – Snow Canyon
+#EXTINF:-1 group-title="Snow",Snow Canyon
 https://usacams.org/snowcanyon.m3u8
-#EXTINF:-1 group-title="Neige",Sweden – Snow Lake
+#EXTINF:-1 group-title="Snow",Snow Lake
 https://swedencams.se/snowlake.m3u8
-#EXTINF:-1 group-title="Neige",France – Snow Alps
+#EXTINF:-1 group-title="Snow",Snow Alps
 https://live.chamonix.com/snow.m3u8
 
 
 ############################
-# 🌌 ESPACE (10)
+# SPACE (10)
 ############################
-#EXTINF:-1 group-title="Espace",NASA TV Public
+#EXTINF:-1 group-title="Space",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1/master.m3u8
-#EXTINF:-1 group-title="Espace",NASA TV Media
+#EXTINF:-1 group-title="Space",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2014076/NASA-NTV2/master.m3u8
-#EXTINF:-1 group-title="Espace",ISS Earth View
+#EXTINF:-1 group-title="Space",ISS Earth View
 https://ustreamix.com/iss.m3u8
-#EXTINF:-1 group-title="Espace",ISS HD Earth
+#EXTINF:-1 group-title="Space",ISS HD Earth
 https://iss-hd.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Espace",SpaceX Launchpad
-https://spacexcam.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Espace",Moon Telescope
-https://moontelescope.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Espace",Solar Observatory
-https://solarobs.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Espace",Aurora Borealis
+#EXTINF:-1 group-title="Space",Aurora Borealis
 https://aurora.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Espace",Milky Way Cam
-https://milkywaycam.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Espace",Deep Space Cam
+#EXTINF:-1 group-title="Space",Solar Observatory
+https://solarobs.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Space",Moon Telescope
+https://moontelescope.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Space",Deep Space Cam
 https://deepspacecam.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Space",Milky Way Cam
+https://milkywaycam.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Space",SpaceX Launchpad
+https://spacexcam.live/hls/stream.m3u8
