@@ -1,1 +1,27 @@
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TheGoodTheBadTheUgly1966" group-title="Western Classiques VF" tvg-logo="https://i.imgur.com/0ZQZ0yM.png",Le Bon, la Brute et le Truand (1966)
+https://archive.org/download/the-good-the-bad-and-the-ugly-1966/The%20Good%20The%20Bad%20And%20The%20Ugly%20-%201966.mp4
+
+#EXTINF:-1 tvg-id="OnceUponATimeInTheWest1968" group-title="Western Spaghetti VF" tvg-logo="https://i.imgur.com/0ZQZ0yM.png",Il était une fois dans l’Ouest (1968)
+https://archive.org/download/once-upon-a-time-in-the-west-1968/Once%20Upon%20A%20Time%20In%20The%20West%20-%201968.mp4
+#EXTINF:-1 tvg-id="The13thWarrior1999" group-title="Vikings VF" tvg-logo="https://i.imgur.com/0ZQZ0yM.png",Le 13e Guerrier (1999)
+https://archive.org/download/the-13th-warrior-1999/The%2013th%20Warrior%20-%201999.mp4
+#EXTINF:-1 tvg-id="Excalibur1981" group-title="Médiéval Arthurien" tvg-logo="https://i.imgur.com/0ZQZ0yM.png",Excalibur (1981)
+https://archive.org/download/excalibur-1981/Excalibur%20-%201981.mp4
+#EXTINF:-1 tvg-id="StarTrekTMP1979" group-title="SF US VF" tvg-logo="https://i.imgur.com/0ZQZ0yM.png",Star Trek : The Motion Picture (1979)
+https://archive.org/download/star-trek-the-motion-picture-1979/Star%20Trek%20The%20Motion%20Picture%20-%201979.mp4
+#EXTINF:-1 tvg-id="SavingPrivateRyan1998" group-title="Guerre VF" tvg-logo="https://i.imgur.com/0ZQZ0yM.png",Il faut sauver le soldat Ryan (1998)
+https://archive.org/download/saving-private-ryan-1998/Saving%20Private%20Ryan%20-%201998.mp4
+#EXTINF:-1 tvg-id="McLintock1963" group-title="John Wayne VF" tvg-logo="https://i.imgur.com/0ZQZ0yM.png",McLintock! (1963)
+https://archive.org/download/mclintock-1963/McLintock%20-%201963.mp4
+
+#EXTINF:-1 tvg-id="AngelAndTheBadman1947" group-title="John Wayne VF" tvg-logo="https://i.imgur.com/0ZQZ0yM.png",L'Ange et le Mauvais Garçon (1947)
+https://archive.org/download/angel-and-the-badman-1947/Angel%20And%20The%20Badman%20-%201947.mp4
+
+#EXTINF:-1 tvg-id="RidersOfDestiny1933" group-title="John Wayne VF" tvg-logo="https://i.imgur.com/0ZQZ0yM.png",Les Cavaliers du destin (1933)
+https://archive.org/download/riders-of-destiny-1933/Riders%20Of%20Destiny%20-%201933.mp4
+
+#EXTINF:-1 tvg-id="TheStarPacker1934" group-title="John Wayne VF" tvg-logo="https://i.imgur.com/0ZQZ0yM.png",Le Shérif sans étoile (1934)
+https://archive.org/download/the-star-packer-1934/The%20Star%20Packer%20-%201934.mp4
