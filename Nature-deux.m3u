@@ -1,7 +1,7 @@
 #EXTM3U
 
 ############################
-# 🌊 OCEANS (10)
+# OCEANS (10)
 ############################
 #EXTINF:-1 group-title="Oceans",Underwater Reef
 https://explore.org/livecams/oceans/underwater-camera/live.m3u8
@@ -24,9 +24,8 @@ https://explore.org/livecams/oceans/tropical-reef-cam/live.m3u8
 #EXTINF:-1 group-title="Oceans",Orca Sound
 https://explore.org/livecams/orcas/orcalab-base-cam/live.m3u8
 
-
 ############################
-# 🦅 ANIMALS (10)
+# ANIMALS (10)
 ############################
 #EXTINF:-1 group-title="Animals",Katmai Bears
 https://explore.org/livecams/brown-bears/katmai-bear-cam.m3u8
@@ -49,9 +48,8 @@ https://explore.org/livecams/tigers/tiger-forest-cam/live.m3u8
 #EXTINF:-1 group-title="Animals",Wolf Den
 https://explore.org/livecams/wolves/wolf-den-cam/live.m3u8
 
-
 ############################
-# 🏔️ MOUNTAINS (10)
+# MOUNTAINS (10)
 ############################
 #EXTINF:-1 group-title="Mountains",NRK Slow TV Train
 https://nrk1tslive.akamaized.net/hls/live/2017830/slowtv/master.m3u8
@@ -74,9 +72,8 @@ https://dolomitiwebcams.it/live.m3u8
 #EXTINF:-1 group-title="Mountains",Vik Iceland
 https://icelandwebcams.is/vik.m3u8
 
-
 ############################
-# 🌲 FORESTS (10)
+# FORESTS (10)
 ############################
 #EXTINF:-1 group-title="Forests",Forest Waterfall
 https://explore.org/livecams/forests/forest-waterfall/live.m3u8
@@ -99,9 +96,8 @@ https://canadacam.ca/forest-trail.m3u8
 #EXTINF:-1 group-title="Forests",Quebec River
 https://quebecnature.live/river.m3u8
 
-
 ############################
-# 🌧️ RAIN (10)
+# RAIN (10)
 ############################
 #EXTINF:-1 group-title="Rain",Rainforest Ambience
 https://rainforestcam.live/hls/stream.m3u8
@@ -124,9 +120,8 @@ https://raincitywindow.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Rain",Rain & Thunder
 https://rainthunder.live/hls/stream.m3u8
 
-
 ############################
-# ❄️ SNOW (10)
+# SNOW (10)
 ############################
 #EXTINF:-1 group-title="Snow",Snow Valley
 https://norwaycams.no/snow-valley.m3u8
@@ -149,9 +144,8 @@ https://swedencams.se/snowlake.m3u8
 #EXTINF:-1 group-title="Snow",Snow Alps
 https://live.chamonix.com/snow.m3u8
 
-
 ############################
-# 🌌 SPACE (10)
+# SPACE (10)
 ############################
 #EXTINF:-1 group-title="Space",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1/master.m3u8
