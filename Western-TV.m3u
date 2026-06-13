@@ -1,8 +1,8 @@
-#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Angel_and_the_Badman_poster.jpg" tvg-fanart="https://archive.org/download/AngelAndTheBadman1947/fanart.jpg", L’Ange et le Mauvais Garçon (1947) — VF
+https://archive.org/download/AngelAndTheBadman1947/AngelAndTheBadman_512kb.mp4
 
-# ===== WESTERN =====
-#EXTINF:-1 group-title="Western",Grjngo Western Movies
-https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/GrjngoWestern/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/McLintock%21_%281963%29_poster.jpg" tvg-fanart="https://archive.org/download/McLintock1963/fanart.jpg", McLintock! (1963) — VF
+https://archive.org/download/McLintock1963/McLintock_512kb.mp4
 
-#EXTINF:-1 group-title="Western",Grjngo Classics (Western / vieux films)
-https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/GrjngoClassics/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/The_Outlaw_%281943%29_poster.jpg" tvg-fanart="https://archive.org/download/TheOutlaw1943/fanart.jpg", Le Banni (1943) — VF
+https://archive.org/download/TheOutlaw1943/TheOutlaw_512kb.mp4
