@@ -27,56 +27,26 @@ https://hls-niagara.ec.earthcam.com/ingest/niagara/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Dublin City (EarthCam)
 https://hls-dublin.ec.earthcam.com/ingest/dublin/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Tokyo Shibuya Crossing
-https://video-weaver.tyo01.hls.live-video.net/v1/playlist/Cg4SB3NoaWJ1eWEaCXZpZGVvLm1wNA.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Venice Grand Canal (Skyline)
-https://hd-auth.skylinewebcams.com/live.m3u8?a=venice
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Santorini Caldera (Skyline)
-https://hd-auth.skylinewebcams.com/live.m3u8?a=santorini
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Amalfi Coast (Skyline)
-https://hd-auth.skylinewebcams.com/live.m3u8?a=amalfi
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Dubai Marina (Skyline)
-https://hd-auth.skylinewebcams.com/live.m3u8?a=dubaimarina
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Brooklyn Bridge (Skyline)
-https://hd-auth.skylinewebcams.com/live.m3u8?a=brooklyn
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Rome Colosseum (Skyline)
-https://hd-auth.skylinewebcams.com/live.m3u8?a=colosseum
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Eiffel Tower (Skyline)
-https://hd-auth.skylinewebcams.com/live.m3u8?a=eiffel
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",London Thames (Skyline)
-https://hd-auth.skylinewebcams.com/live.m3u8?a=london
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Barcelona Beach (Skyline)
-https://hd-auth.skylinewebcams.com/live.m3u8?a=barcelona
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Machu Picchu (Skyline)
-https://hd-auth.skylinewebcams.com/live.m3u8?a=machupicchu
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Brown Bears Alaska (Explore)
 https://video.explore.org/live-bear-cam/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Osprey Nest (Explore)
-https://video.explore.org/live-osprey/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Beluga Whales (Explore)
+https://video.explore.org/live-beluga/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",African Watering Hole (Explore)
-https://video.explore.org/live-africa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Sea Lions (Explore)
+https://video.explore.org/live-sealion/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Pacific Ocean Reef (Explore)
-https://video.explore.org/live-ocean/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Panda Cam (Explore)
+https://video.explore.org/live-panda/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Northern Lights (Explore)
-https://video.explore.org/live-northernlights/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Gorilla Forest (Explore)
+https://video.explore.org/live-gorilla/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Eagle Nest (Explore)
 https://video.explore.org/live-eagle/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Northern Lights (Explore)
+https://video.explore.org/live-northernlights/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Waterfall 4K (Explore)
 https://video.explore.org/live-waterfall/playlist.m3u8
@@ -87,5 +57,32 @@ https://video.explore.org/live-coralreef/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Forest Stream (Explore)
 https://video.explore.org/live-foreststream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Desert Cam (Explore)
-https://video.explore.org/live-desert/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Hawaii Surf 4K
+https://images-webcams.windy.com/63/167063/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Waikiki Beach 4K
+https://images-webcams.windy.com/18/167018/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Bali Ocean 4K
+https://images-webcams.windy.com/22/167022/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Maldives Lagoon 4K
+https://images-webcams.windy.com/45/167045/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Phuket Beach 4K
+https://images-webcams.windy.com/33/167033/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Sydney Harbour 4K
+https://images-webcams.windy.com/11/167011/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",New Zealand Fjord 4K
+https://images-webcams.windy.com/77/167077/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Iceland Volcano 4K
+https://images-webcams.windy.com/88/167088/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Swiss Alps 4K
+https://images-webcams.windy.com/55/167055/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRONE ULTRA DIRECT",Banff Lake Louise 4K
+https://images-webcams.windy.com/66/167066/stream.m3u8
